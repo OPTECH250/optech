@@ -1,2 +1,2 @@
 # optech
-*Outstanding programmer in technology *
+* Outstanding programmer in technology
